@@ -16,3 +16,5 @@
   - Compared to existing public datasets, ACSA653 offers significant advantages in terms of sample size, action categories, and modalities (RGB+Skeleton).
 
 This dataset provides a valuable resource for studying the recognition of stereotyped movements in children with ASD, facilitating deeper analysis of behavioral patterns.
+
+Because of the data sharing policy of our group, data of the paper cannot be released here directly. If you are interested in using the data, please contact the authors (baiqiao@mail.sdu.edu.cn), to get them for non-commercial use only. Please provide your name, institution, and purpose of using the data, and please cite the paper if you use the data.
