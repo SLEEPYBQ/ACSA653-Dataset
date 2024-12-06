@@ -25,4 +25,19 @@ This dataset provides a valuable resource for studying the recognition of stereo
 <br>Fig.2 Dataset Modality</div>
 
 
+
+## Citation
+Please cite these papers in your publications if it helps your research:
+
+    @article{apmfnet,
+      author={Zhang, Baiqiao and Yuan, Yanran and Qin, Wei and Li, Xiangxian and Liu, Weiying and Yao, Wenxin and Bian, Yulong and Liu, Juan},
+      journal={IEEE Journal of Biomedical and Health Informatics}, 
+      title={Enhancing Recognition of Stereotyped Movements in ASD Children Through Action Pattern Mining and Multi-Channel Fusion}, 
+      year={2024},
+      volume={},
+      number={},
+      pages={1-15},
+    }
+    
+## License
 Because of the data sharing policy of our group, data of the paper cannot be released here directly. If you are interested in using the data, please contact the authors (baiqiao@mail.sdu.edu.cn), to get them for non-commercial use only. Please provide your name, institution, and purpose of using the data, and please cite the paper if you use the data.
