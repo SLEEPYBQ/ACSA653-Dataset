@@ -39,5 +39,25 @@ Please cite these papers in your publications if it helps your research:
       pages={1-15},
     }
     
+    @article{liu2022evaluating,
+    title={Evaluating the role of mixed reality in cognitive training of children with ASD: Evidence from a mixed reality aquarium},
+    author={Liu, Juan and Bian, Yulong and Xi, Yuting and Zheng, Yawen and Huang, Jin and Gai, Wei and Yang, Chenglei and Meng, Xiangxu},
+    journal={International journal of human-computer studies},
+    volume={162},
+    pages={102815},
+    year={2022},
+    publisher={Elsevier}
+    }
+    
+    @article{liu2021designing,
+    title={Designing and deploying a mixed-reality aquarium for cognitive training of young children with autism spectrum disorder},
+    author={Liu, Juan and Bian, Yulong and Yuan, Yanran and Xi, Yuting and Geng, Wenxiu and Jin, Xinpei and Gai, Wei and Fan, Xiangmin and Tian, Feng and Meng, Xiangxu and others},
+    journal={Science China Information Sciences},
+    volume={64},
+    pages={1--3},
+    year={2021},
+    publisher={Springer}
+  }
+    
 ## License
 Because of the data sharing policy of our group, data of the paper cannot be released here directly. If you are interested in using the data, please contact the authors (baiqiao@mail.sdu.edu.cn), to get them for non-commercial use only. Please provide your name, institution, and purpose of using the data, and please cite the paper if you use the data.
